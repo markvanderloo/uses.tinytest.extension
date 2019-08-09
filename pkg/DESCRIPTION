@@ -7,6 +7,6 @@ Author: Mark van der Loo
 Maintainer: Mark van der Loo <mark.vanderloo@gmail.com>
 Description: Shows how to use tinytest.extension in tests.
 License: GPL (>= 2)
-Suggests: tinytest, tintest.extension
+Suggests: tinytest, tinytest.extension
 RoxygenNote: 6.1.1
 Encoding: UTF-8
