@@ -29,7 +29,7 @@ vignette("using_tinytest", package="tinytest")
 ### Install this package
 
 ```r
-remotes::install_github("markvanderloo","using.tinytest.extension")
+remotes::install_github("markvanderloo/using.tinytest.extension/pkg")
 ```
 
 ### Obtain source, build, test
