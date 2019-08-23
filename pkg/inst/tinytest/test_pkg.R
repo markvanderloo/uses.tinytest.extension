@@ -2,7 +2,7 @@
 # simple test
 expect_equal(1 + 1, 2)
 
-library(tinytest.extension)
+using(tinytest.extension)
 
 # should be fine
 expect_lol("lol")
